@@ -4,3 +4,4 @@ export function sumOfSquares() {
   }, 0);
 }
 console.log(sumOfSquares(1, 2, 3));
+// up
